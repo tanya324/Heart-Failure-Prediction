@@ -8,11 +8,17 @@
 
 ## 📷 Demo Screenshots
 
-
+### 🧾 Input Form
 <p align="center">
-  <img src="ui_form.png" alt="App UI" width="500"/>
+  <img src="ui_form.png" alt="App UI" width="600" style="border-radius: 8px; margin-bottom: 20px;"/>
+</p>
   <br>
-  <img src="prediction_result.png" alt="Prediction Output" width="500"/>
+  <hr>
+  
+  ### 🔍 Prediction Result
+  
+<p align="center">
+  <img src="prediction_result.png" alt="Prediction Output" width="600" style="border-radius: 8px;"/>
 </p>
 
 ---
