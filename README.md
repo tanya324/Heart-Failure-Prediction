@@ -8,10 +8,12 @@
 
 ## 📷 Demo Screenshots
 
+<img width="906" height="370" alt="image" src="" />
+
 <p align="center">
-  <img src="your-image-url-1.png" alt="App UI" width="500"/>
+  <img src="[your-image-url-1.png](https://github.com/user-attachments/assets/61a8cfc0-2b4c-4516-9787-c4c826277216)" alt="App UI" width="500"/>
   <br>
-  <img src="your-image-url-2.png" alt="Prediction Output" width="500"/>
+  <img src="[your-image-url-2.png](https://github.com/user-attachments/assets/7e5e532d-ff53-473b-9d9a-bdd55f50f080)" alt="Prediction Output" width="500"/>
 </p>
 
 ---
